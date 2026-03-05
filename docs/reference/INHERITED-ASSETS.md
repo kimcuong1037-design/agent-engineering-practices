@@ -9,7 +9,7 @@
 | 资产 | 来源 | 在新框架中的角色 | 继承状态 |
 |------|------|-----------------|----------|
 | CORRECTIONS.md（10 模式） | 原项目 docs/ | 初始纠偏知识库 → governance/CORRECTIONS.md | ✅ 已继承 |
-| STANDARDS.md（术语表） | 原项目 docs/ | 术语单一事实源（待导入） | ⬜ 待导入 |
+| STANDARDS.md（术语表） | 原项目 docs/ | 术语单一事实源 → governance/STANDARDS.md | ✅ 已继承（v1.3，适配 Fastify/Zustand/Vitest） |
 | CONSTITUTION.md（8 原则） | 原项目 docs/ | Agent 工作流宪法 → governance/CONSTITUTION.md | ✅ 已继承 |
 | AGENT-PLAN.md（14 步流程） | 原项目 docs/ | 模块开发流程模板 → governance/AGENT-WORKFLOW.md | ✅ 已继承 |
 | SESSION-PROTOCOL.md | 原项目 docs/ | session-management Skill 参考 → governance/TEAM-COLLABORATION.md | ✅ 已继承 |
